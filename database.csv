@@ -1,0 +1,33 @@
+notes,expt,depth,mouse_name,date,block
+,gratings_static,150,GT1,2019_04_17,1
+,gratings_static,125,GT2,2019_04_17,1
+not yet local,gratings_static,125,GT3,2019_04_17,1
+gratings(static(.54 .47)),gratings_static,100,TX38,2019_05_02,2
+gratings(static(.54 .36)),gratings_static,100,TX39,2019_05_02,1
+gratings(static(.46 .85)),gratings_static,100,TX40,2019_05_02,1
+gratings(local(.38 .53)),gratings_local,150,GT1,2019_04_27,2
+ipad_gratings(.54 .78),gratings_local,125,GT2,2019_04_23,2
+gratings [.46 .47],gratings_local,125,GT3,2019_04_24,2
+"gratings(minnie, [.38 .53])",minnie,150,GT1,2019_04_29,2
+gratings(minnie(.38 .75)),minnie,125,GT2,2019_04_25,1
+gratings(minnie(.53 .47)),minnie,125,GT3,2019_04_27,3
+minnie(.71 .81),minnie,150,TX38,2019_05_07,4
+gratings(minnie(.54 .36)),minnie,100,TX39,2019_05_08,2
+"25, 200+ (125 450)",minnie,125,TX40,2019_05_06,2
+gratings short full,gratings_short,150,GT1,2019_04_28,5
+gratings(short(.38.75)),gratings_short,125,GT2,2019_04_29,1
+gratings(short(.46 .47)),gratings_short,125,GT3,2019_04_25,3
+,gratings_drifting,150,GT1,2019_04_12,1
+,gratings_drifting,150,GT2,2019_04_05,1
+,gratings_drifting,150,GT3,2019_04_05,1
+,gratings_low_contrast,150,GT1,2019_04_09,1
+,gratings_low_contrast,125,GT2,2019_04_12,2
+,gratings_low_contrast,125,GT3,2019_04_12,1
+,gratings_noisy,150,GT1,2019_04_08,1
+,gratings_noisy,125,GT2,2019_04_08,1
+,gratings_noisy,125,GT3,2019_04_08,1
+,static_biased,150,TX38,2019_06_11,1
+,static_biased,125,TX39,2019_06_11,6
+,static_biased,150,TX40,2019_06_12,2
+,static_biased,125,TX41,2019_06_11,3
+,static_biased,150,TX42,2019_06_13,1
