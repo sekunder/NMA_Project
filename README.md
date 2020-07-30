@@ -1,4 +1,4 @@
-# NMA_Project
+# NMA project - not fMRI project team 
 [Group projects](https://github.com/NeuromatchAcademy/course-content/blob/master/projects/README.md#project-structure-and-schedule) for Neuromatch Academy, summer 2020.
 
 
